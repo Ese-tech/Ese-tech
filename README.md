@@ -7,7 +7,7 @@
 👀 I’m interested in creating innovative and user-friendly web applications.  
 - 🌱 I’m currently learning advanced techniques in modern web development and staying updated with the latest trends in full-stack development.  
 - 💞️ I’m looking to collaborate on exciting web development projects or open-source initiatives where I can contribute with my skills.  
-- 📫 How to reach me: Feel free to connect with me via [LinkedIn](#) or email me at baltakoeln@icloud.com  
+- 📫 How to reach me: Feel free to connect with me via [LinkedIn]([#](https://www.linkedin.com/in/ese-osagie-2453b535b/)) or email me at ese.osagie19@gmail.com 
 - ⚡ Fun fact: I live in Köln, Germany, and I love blending creativity and code to solve real-world problems!  
 
 
