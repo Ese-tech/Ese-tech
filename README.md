@@ -35,11 +35,12 @@
 
 ## 🚀 GitHub Statistics
 
-![Ese-tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=ese-tech&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ese-tech&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ese-tech&theme=tokyonight)
+![GitHub streak](https://streak-stats.demolab.com?user=ese-tech&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ese-tech&theme=tokyonight&layout=compact)
+
 
 ---
 
